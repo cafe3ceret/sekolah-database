@@ -46,9 +46,3 @@ UPDATE siswa SET jurusan = 'Teknik Komputer' WHERE nama = 'Eko';
 DELETE FROM nilai WHERE id = 10;
 
 
-## 👨‍💻 Identitas
-**Nama:** Aditya Arief Darmawan  
-**NIM:** 2213010450  
-**Kelas:** UI/UX DESAIN 
-
-
