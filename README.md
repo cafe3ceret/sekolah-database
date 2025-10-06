@@ -4,6 +4,12 @@
 Project ini merupakan implementasi dasar dari pembuatan **database sekolah** menggunakan **MariaDB (via Laragon + HeidiSQL)**.  
 Tugas ini meliputi pembuatan tabel `siswa` dan `nilai`, penerapan **relasi Primary Key dan Foreign Key**, serta operasi dasar SQL seperti `INSERT`, `SELECT`, `JOIN`, `GROUP BY`, `UPDATE`, dan `DELETE`.
 
+## 👨‍💻 Identitas
+**Nama:** Aditya Arief Darmawan  
+**NIM:** 2213010450  
+**Kelas:** UI/UX DESAIN  
+**Mata Kuliah:** Back-End Development / Basis Data
+
 ---
 
 ## ⚙️ Struktur Database
@@ -44,5 +50,6 @@ UPDATE siswa SET jurusan = 'Teknik Komputer' WHERE nama = 'Eko';
 
 -- Hapus salah satu data nilai
 DELETE FROM nilai WHERE id = 10;
+
 
 
